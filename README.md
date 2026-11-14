@@ -13,7 +13,7 @@
 
 | | Repo | Estado | Lenguaje | Último push | ★ |
 |:-:|:--|:--|:--|:--|--:|
-| 🟡 | [**VisionporcompuP1**](https://github.com/marcoaurelio-cabral/VisionporcompuP1) | `reciente` | — | hace 13 d | 0 |
+| 🟡 | [**VisionporcompuP1**](https://github.com/marcoaurelio-cabral/VisionporcompuP1) | `reciente` | — | hace 14 d | 0 |
 | ⚪ | [**P00**](https://github.com/marcoaurelio-cabral/P00) | `en pausa` | — | hace 2 meses | 0 |
 | ⚪ | [**dis-p00-marcoaurelio-cabral**](https://github.com/marcoaurelio-cabral/dis-p00-marcoaurelio-cabral) | `en pausa` | — | hace 2 meses | 0 |
 | ⚪ | [**Laboratorio1**](https://github.com/marcoaurelio-cabral/Laboratorio1) | `en pausa` | C | hace 7 meses | 0 |
