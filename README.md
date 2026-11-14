@@ -9,10 +9,11 @@
 ### `$ status --repos`
 
 <!--REPOS:START-->
-🟢 **0** activos · 🟡 **1** recientes · ⚪ **11** en pausa · 🔴 **0** archivados
+🟢 **1** activos · 🟡 **1** recientes · ⚪ **11** en pausa · 🔴 **0** archivados
 
 | | Repo | Estado | Lenguaje | Último push | ★ |
 |:-:|:--|:--|:--|:--|--:|
+| 🟢 | [**armario-vision**](https://github.com/marcoaurelio-cabral/armario-vision) | `activo` | — | hace 6 h | 0 |
 | 🟡 | [**VisionporcompuP1**](https://github.com/marcoaurelio-cabral/VisionporcompuP1) | `reciente` | — | hace 14 d | 0 |
 | ⚪ | [**P00**](https://github.com/marcoaurelio-cabral/P00) | `en pausa` | — | hace 2 meses | 0 |
 | ⚪ | [**dis-p00-marcoaurelio-cabral**](https://github.com/marcoaurelio-cabral/dis-p00-marcoaurelio-cabral) | `en pausa` | — | hace 2 meses | 0 |
@@ -24,7 +25,6 @@
 | ⚪ | [**ProyectoIndividual**](https://github.com/marcoaurelio-cabral/ProyectoIndividual) | `en pausa` | HTML | hace 1 año | 0 |
 | ⚪ | [**paginaWebmarco**](https://github.com/marcoaurelio-cabral/paginaWebmarco) | `en pausa` | — | hace 1 año | 0 |
 | ⚪ | [**prueba1**](https://github.com/marcoaurelio-cabral/prueba1) | `en pausa` | C | hace 1 año | 0 |
-| ⚪ | [**hola**](https://github.com/marcoaurelio-cabral/hola) | `en pausa` | — | hace 1 año | 0 |
 
 <sub>🟢 push en los últimos 7 días · 🟡 en los últimos 30 · ⚪ más antiguo · 🔴 archivado</sub>
 <!--REPOS:END-->
