@@ -13,7 +13,7 @@
 
 | | Repo | Estado | Lenguaje | Último push | ★ |
 |:-:|:--|:--|:--|:--|--:|
-| 🟢 | [**armario-vision**](https://github.com/marcoaurelio-cabral/armario-vision) | `activo` | — | hace 6 h | 0 |
+| 🟢 | [**armario-vision**](https://github.com/marcoaurelio-cabral/armario-vision) | `activo` | — | hace 14 h | 0 |
 | 🟡 | [**VisionporcompuP1**](https://github.com/marcoaurelio-cabral/VisionporcompuP1) | `reciente` | — | hace 14 d | 0 |
 | ⚪ | [**P00**](https://github.com/marcoaurelio-cabral/P00) | `en pausa` | — | hace 2 meses | 0 |
 | ⚪ | [**dis-p00-marcoaurelio-cabral**](https://github.com/marcoaurelio-cabral/dis-p00-marcoaurelio-cabral) | `en pausa` | — | hace 2 meses | 0 |
